@@ -4,10 +4,7 @@
 <h3 align="center">We are Digital Solutions Team from Indonesia.</h3>
 
 ## 🙋‍♂️ About Me
-We are a exploring innovation team technology
-information and digital creativity in a digital world
-to help everyone, whatever your profession is in
-digital creativity industri.
+We are a exploring innovation team technology information and digital creativity in a digital world to help everyone, whatever your profession is in digital creativity industri.
 
 - 🔭 I’m currently a CS student at SMK Komputer Indonesia.
 - 📚 I’m currently learning  backend web development using NodeJS, PHP and Sqlite and I learning Network Fundamental.
