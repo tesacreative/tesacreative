@@ -49,16 +49,16 @@ We are a exploring innovation team technology information and digital creativity
 
 
 <p align="center">
-    <a href="https://github.com/tegarsabila/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Tegar Sabila's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=tegarsabila&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    <a href="https://github.com/tesacreative/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Tesa Creative's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=tesacreative&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
 
 ## 📊 My Github Stats
-<a href="https://github.com/tegarsabila">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tegarsabila&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tegarsabila&theme=buefy&layout=compact" />
+<a href="https://github.com/tesacreative">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tesacreative&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tesacreative&theme=buefy&layout=compact" />
 </a>
 
 <br/>
@@ -70,7 +70,7 @@ We are a exploring innovation team technology information and digital creativity
 <br/>
 <br/>
 
-<a href="https://github.com/tegarsabila/github-readme-activity-graph"><img alt="Tegar Sabila's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=tegarsabila&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/tesacreative/github-readme-activity-graph"><img alt="Tesa Creative's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=tesacreative&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
@@ -79,22 +79,17 @@ We are a exploring innovation team technology information and digital creativity
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://fb.me/tegar.coffeecode"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-Tegar Sabila-blue?style=flat-square&logo=facebook"></a>
-<a href="https://www.instagram.com/tegar.coffeecode/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Tegar Project-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto: tegarsabila11@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-tegarsabila11@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="https://fb.me/tesa.creative"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-Tesa Creative-blue?style=flat-square&logo=facebook"></a>
+<a href="https://www.instagram.com/tesa.creative/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Tesa Creative-blue?style=flat-square&logo=instagram"></a>
+<a href="mailto:tesacreative@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-tesacreative@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
-<br/>
-
-## Dev Card
-<a href="https://app.daily.dev/tegarsabila"><img src="https://github.com/tegarsabila/tegarsabila/blob/main/devcard.svg" width="400" alt="Tegar Sabila's Dev Card"/></a>
-
 <br/>
 
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=tegarsabila">
+    <img src="https://komarev.com/ghpvc/?username=tesacreative">
 </a>
-<a href="https://github.com/tegarsabila?tab=followers"><img src="https://img.shields.io/github/followers/tegarsabila?label=Followers&style=social" alt="GitHub Badge" /></a>
+<a href="https://github.com/tesacreative?tab=followers"><img src="https://img.shields.io/github/followers/tesacreative?label=Followers&style=social" alt="GitHub Badge" /></a>
 
 
-⭐️ From [Tegar Sabila](https://github.com/tegarsabila)
+⭐️ From [Tesa Creative](https://github.com/tesacreative)
