@@ -13,7 +13,7 @@ We are a exploring innovation team technology information and digital creativity
 - Web Design
 - Marketing
 - Other
-- 📫 How to reach me: [WhatsApp](https://wa.me/6281313894097) [Gmail](mailto:tesacreative@gmail.com)
+- 📫 How to reach me: [WhatsApp](https://wa.me/6281313894097) | [Gmail](mailto:tesacreative@gmail.com)
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
