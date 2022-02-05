@@ -6,10 +6,14 @@
 ## 🙋‍♂️ About Me
 We are a exploring innovation team technology information and digital creativity in a digital world to help everyone, whatever your profession is in digital creativity industri.
 
-- 🔭 I’m currently a CS student at SMK Komputer Indonesia.
-- 📚 I’m currently learning  backend web development using NodeJS, PHP and Sqlite and I learning Network Fundamental.
-- 👯 I’m looking for a software development internship. 
-- 📫 How to reach me: [WhatsApp](https://wa.me/6281313894097) [Gmail](mailto:tegarsabila11@gmail.com)
+- Programmer
+- Networking
+- UI & UX Designer
+- Illustrator Design / Graphic Design
+- Web Design
+- Marketing
+- Other
+- 📫 How to reach me: [WhatsApp](https://wa.me/6281313894097) [Gmail](mailto:tesacreative@gmail.com)
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
